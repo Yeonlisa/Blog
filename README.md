@@ -6,4 +6,4 @@
 2. issue에 학습한 내용 정리함
 
 ## 실행방법
-> blog폴더 위치에서 `npm install` 한다음에 `npm start` 한다.
+> `npm install` 한다음에 `npm start` 한다.
