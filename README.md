@@ -5,5 +5,5 @@
 1. commit message는 각 강의이름
 2. issue에 학습한 내용 정리함
 
-## 실행방법
-> `npm install` 한다음에 `npm start` 한다.
+## 링크
+https://yeonlisa.github.io/blog/
