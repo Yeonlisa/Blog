@@ -4,6 +4,3 @@
 ## 특징
 1. commit message는 각 강의이름
 2. issue에 학습한 내용 정리함
-
-## 링크
-https://yeonlisa.github.io/blog/
